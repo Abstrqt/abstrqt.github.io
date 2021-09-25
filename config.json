@@ -1,24 +1,922 @@
-{'124': {'name': 'Advanced Features of TalentLMS', 'units': {'1993': 'Enhance your course', '1994': 'How to add conferences', '1995': 'How to create Instructor-led Training', '1996': 'How to clone courses & units', '1997': 'Managing your users', '1998': 'How to use Groups', '1999': 'How to use Branches', '2000': 'How to customize User Types', '2001': 'Advanced features', '2002': 'How to work with Automations', '2003': 'Selling courses', '2004': 'How to sell your courses'}}, '194': {'name': 'CE-000 - Welcome to the Computer Engineering Stream', 'units': {'2323': 'Introduction to Computer Engineering Stream SCORM'}}, '126': {'name': 'CE-100 - DC Electronics, Fundamentals', 'units': {'2864': 'Welcome to Computer Engineering', '2072': 'What is Electricity', '2082': 'Electricity and Water Analogy', '2083': 'How is Electricity Generated', '2084': 'What are Electronic Components & Circuits', '2085': 'Summary', '2090': 'Project - DIY Battery', '2075': 'Electrical Quantities', '2086': 'Voltage Potential', '2087': 'Electric Current', '2088': 'Voltage and Current Sources', '2089': 'Summary', '2091': 'Project - Voltage and Current Measurements', '2078': 'Engineering Notation', '2079': 'Engineering Notation', '2051': 'Engineering Notation', '2052': 'Engineering Notation Assignment', '2053': 'Engineering Notation Test', '2080': 'Resistance', '2092': 'Resistance as a Physical Property of Material', '2093': 'Resistors', '2094': 'Resistance of a Wire', '2095': 'Sensors as Resistors', '2097': 'Summary', '2096': 'Project - A Simple Resistive Sensor Circuit', '2098': "Ohm's Law", '2099': 'Voltage Experiment', '2100': 'Resistance Experiment', '2101': "Deriving Ohm's Law", 
-'2102': 'Electric Power', '2103': 'Summary', '2104': 'Project - Introduction to SPICE (Simulation SW)'}}, '217': {'name': 'CE-100NS - DC Electronics, Fundamentals - NexStarter', 'units': {'2735': "Section 1 - Electricity and Ohm's Law", '2798': 'Welcome to Section 1', '2816': 'Unit-010 What is Electricity', '2836': 'Unit-020 Electrical Quantities and Resistance', '2837': 'Unit-030 Multimeters and Electrical Measurements', '2839': "Unit-040 Ohm's Law", '2742': 'Section 2 - Fun with RC Circuits', '2838': 'Welcome to Section 2', '2845': 'Unit-050 Photo Sensor Circuit', '2840': 'Unit-060 Capacitors and RC Circuits', '2843': 'Unit-070 Intro to Didoes and Transistors', '2849': 'Unit-080 Magic Light Project', '2748': 'Section 3 - Fun with 555 Timers', '2844': 'Welcome to Section 3', '2848': 'Unit-090 Integrated Circuits and 555 Timer Project', '2754': 'Section 4 - Intro to Digital Logic', '2846': 'Welcome to Section 4', '2850': 'Unit-120 Introduction to Digital Logic', '2851': 'Unit-130 Two Bit Full Adder'}}, '130': {'name': 'CE-110 - DC Electronics, Intermediate', 'units': {'2105': 'Series Resistive Networks', '2106': "Kirchhoff's Voltage Law", '2107': 'Series Resistive Network Experiment', '2108': 'Series Resistive Networks', '2304': 'Transistors as Switches', '2109': 'Summary', '2110': 'Project - Simple Light Sensor Circuit', '2111': 'Parallel Resistive Networks', '2112': "Kirchhoff's Current Law", '2113': 'Parallel Resistive Network Experiment', '2114': 'Parallel Resistive Network', '2115': 'Summary', '2116': 'Project - Simple Thermostat Circuit', '2117': 'Capacitors', '2118': 'Dimming LED Experiment', '2119': 'Water Analogy', '2120': 'Charge and Discharge Times', '2121': 'Summary', '2122': 'Project - DIY Capacitor', '2123': 'Oscilloscopes and Signal Generators', '2124': 'Oscilloscopes for Measuring Time Varying Signals', '2125': 'Arbitrary Signal Generators', '2126': 'Summary', '2127': 'Project - Measuring DIY Capacitor', '2128': 'Series and Parallel Capacitive Networks', '2129': 'Parallel Capacitor Experiment', '2130': "Kirchhoff's Current Law and Parallel Capcitive Networks", '2131': 'Series Capacitor Experiment', '2132': "Kirchhoff's Voltage Law and Series Capacitive Networks", '2133': 'Summary', '2134': 'Project - Series & Parallel Capacitive Network Measurements'}}, '131': {'name': 'CE-120 - DC Electronics, Advanced', 'units': {'2135': '555 Timer Chip', '2136': 'How 555 Timer Works', '2137': 'Project - A Simple LED Blinking Circuit', '2138': 'Inductors', '2139': 'Alternating LED Experiment', '2140': 'Water Analogy - Inductors', '2141': "Inductor's Charge and Discharge Time", '2142': 'Summary', '2143': 'Project - DIY Inductor', '2144': 'Series and Parallel Inductive Networks', '2145': 'Series Inductor Experiment', '2146': 'Kirchhoff’s Voltage Law and Series Inductive Networks', '2147': 'Parallel Inductor Experiment', '2148': 'Kirchhoff’s Current Law and Parallel Inductive Networks', '2149': 'Summary', '2150': 'Project – Series & Parallel Capacitor Network Measurements', '2153': 'Capstone Project', '2154': 'Eagle Schematic 
-Capture Tutorial', '2155': 'Eagle Board Layout Tutorial', '2156': 'Electronic Piano Circuit Design', '2157': 'Surface Mount Board Assembly Tutorial', '2158': 'Soldering Tutorial', '2159': 'Debugging Tutorial'}}, '174': {'name': 'CE-130 - AC Electronics, Fundamentals', 'units': {}}, '175': {'name': 'CE-140 - AC Electronics, Intermediate', 'units': {}}, '176': {'name': 'CE-200 - Digital Electronics, Fundamentals', 'units': {}}, '177': {'name': 'CE-210 - Digital Electronics, Intermediate', 'units': {}}, '178': {'name': 'CE-220 - Logic Arrays, Fundamentals', 'units': {}}, '179': {'name': 'CE-230 - Logic Arrays, Intermediate', 'units': {}}, '180': {'name': 'CE-300 - Arithmetic Logic Unit (ALU)', 
-'units': {}}, '181': {'name': 'CE-300L - Arithmetic Logic Unit Design', 'units': {}}, '182': {'name': 'CE-310 - Microprocessor Instruction Set', 'units': {}}, '183': {'name': 'CE-310L - Microprocessor Instruction Set Design', 'units': {}}, '184': {'name': 'CE-320 - Microprocessor Memory Management Unit (MMU)', 'units': {}}, '185': {'name': 'CE-320L - Memory Management Unit Design (clone)', 'units': {}}, '186': {'name': 'CE-330 - Microprocessor Input and Output (I/O) Interface', 'units': {}}, '187': {'name': 'CE-330L - Microprocessor Interface Design', 'units': {}}, '188': {'name': 'CE-340L - Calculator Design', 'units': {}}, '189': {'name': 'CE-400 - Microprocessor Subsystem, Memory Interface', 'units': {}}, '190': {'name': 'CE-410 - Microprocessor Subsystem, Peripherals', 'units': {}}, '191': {'name': 'CE-420 - Microprocessor Subsystem, Board Support Package (BSP) & Operating System (OS)', 'units': {}}, '192': {'name': 'CE-430L - Microprocessor Subsystem Design', 'units': {}}, '46': {'name': 'Content and TalentLMS', 'units': {'2005': 'Welcome to Content and TalentLMS', '2006': 'HOW EACH CONTENT TYPE WORKS', '2007': 'Content Types to Use in Your Courses', '2008': 'Uploading a Cool Image', '2009': 'Embedding Online Content', '2010': 'Embedding Videos', '2011': 'PowerPoint Presentation as a Video', '2012': 'Uploading Audio', '2013': 'Using Documents and Presentations', '2014': 'Embedding with iFrame', '2015': 'ASSESSMENTS AS PART OF A COURSE', '2016': 'Using Assessments', '2017': 'Working with Surveys'}}, '113': {'name': 'Employee Training 101', 'units': {'2028': 'Welcome to Employee Training 101', '2029': 'GETTING STARTED', '2030': 'What is Employee Training?', '2031': 'Benefits of Employee Training', '2032': 'How to Set Up an Employee Training Plan', '2033': 'BASIC TYPES OF EMPLOYEE TRAINING', '2034': 'Onboarding', '2035': 'Compliance', '2036': 'Technical Skills Development', '2037': 'EVALUATION', '2038': 'How Can an LMS Help 
-with Assessments?', '2039': 'How to Phrase Employee Evaluation Comments', '2040': 'The Power of Employee Training', '2041': 'One Company, One Platform, Multiple Training Types', '2042': 'Training a Workforce of 1,200', '2043': 'Employee Training in Complex Organizations'}}, '122': {'name': 'Getting Started With eLearning', 'units': {'2018': 'Welcome to Getting Started With eLearning', '2019': 'eLearning FUNDAMENTALS', '2020': 'What is an LMS?', '2021': 'Why Do You Need eLearning?', '2022': 'Why You Should Invest in an LMS (Infographic)', '2023': 'eLearning Tactics', '2024': 'Blended Learning: When Online Meets Offline', '2025': 'Rapid eLearning: Save Time and Money', '2026': 'Gamifying the Learning Process', '2027': 'How Can a Subject Matter Expert Help?'}}, '123': {'name': 'Introduction to TalentLMS', 'units': {'2046': 'User roles in TalentLMS', '1982': 'Creating courses', '1983': 'How to add content to a course', '1984': 'How to add tests', '1985': 'How to add assignments', '1986': 'How to add files', '1987': 'Managing your account', '1988': 'How to view reports', '1989': 'How to customize your account', '1990': 'How to import & export data', '1991': 'How to set up Notifications', '1992': 'How to set up Gamification'}}, '171': {'name': 'Machine Learning Stream Overview', 'units': {'2367': 'Machine Learning Stream Overview'}}, '219': {'name': 'ML Test Course', 'units': {'2861': 'ML-100 Course Exam', '2862': 'ML-220 Course Exam', '2863': 'Free Response Question'}}, '212': {'name': 'ML-100 Intro to Machine Learning 
-- Chinese', 'units': {'2695': 'Unit-030 - Teachable Machine Introduction'}}, '207': {'name': 'ML-100 Intro to Machine Learning Classifiers - Part 1', 'units': {'2628': 'ML-100 Materials Google Drive Link', '2626': 'Unit-000 - Pre-course Placement Exam', '2606': 'Unit-010 -  Project - Human Classification of Images', '2607': 'Unit-020 -  Intro to Learning Systems and Image Classification', '2629': 'Unit-021 - Intro to Classifiers Assignment', '2608': 'Unit-030 - Teachable Machine Introduction', '2609': 'Unit-040 - Project - Teachable Machine Based Image Classifier', '2630': 'Unit-041 - Intro to Teachable Machine Assignment', '2623': 'Unit-045 - JavaScript Introduction', '2611': 'Unit-050 - JavaScript Based Image Classifier', '2612': 'Unit-060 - Project - JavaScript Based Image Classifier', '2631': 'Unit-061 - JavaScript Based Image Classifier Assignment', '2627': 'Unit-999 - Post-course Exit Exam', '2632': 'ML-100 Course Survey'}}, '132': {'name': 'ML-100 Teachable Machine Classifiers', 'units': {'2167': 'Classifiers', '2435': 'ML-100 Materials Google Drive Link', '2448': 'VNC on Raspberry Pi - optional', '2372': 'ML-100 Discussion Group', '2395': 'Unit-000 - ML-100 Pre Course Assessment', '2329': 'Unit-010 -  Project - Human Classification 
-of Images', '2352': 'Unit-020 -  Intro to Learning Systems and Image Classification', '2358': 'Unit-021 - Intro to Classifiers Assignment', 
-'2340': 'Unit-030 - Teachable Machine Introduction', '2343': 'Unit-040 - Project - Teachable Machine Based Image Classifier', '2364': 'Unit-041 - Intro to Teachable Machine Assignment', '2660': 'Unit-045 - JavaScript Introduction', '2345': 'Unit-050 - JavaScript Based Image Classifier', '2347': 'Unit-060 - Project - JavaScript Based Image Classifier', '2365': 'Unit-061 - JavaScript Based Image Classifier Assignment', '2351': 'Unit-070 - Raspberry Pi based Image Classifier', '2420': 'Unit-072 - Introduction to Linux', '2439': 'Unit-075 - Linux Basics', '2370': 'Unit-080 - Project - Raspberry Pi Based Image Classifier', '2366': 'Unit-081 - Raspberry Pi Based Image Classifier Assignment', '2359': 'Unit-999 - ML-100 Post Course Assessment', '2401': 'ML-100 Course Survey'}}, '216': {'name': 'ML-100NS Intro to Machine Learning Classifiers - NexStarter', 'units': {'2799': 'ML-100NS Introductions', '2723': 'Unit-010 -  Project - Human Classification of Images', '2724': 'Unit-020 -  Intro to Learning Systems and Image Classification', '2725': 'Unit-021 - Intro to Classifiers', '2726': 'Unit-030 - Teachable Machine Introduction', '2727': 'Unit-040 - Project - Teachable Machine Based Image Classifier', '2728': 'Unit-041 - Intro to Teachable Machine', 
-'2729': 'Unit-045 - JavaScript Introduction', '2730': 'Unit-050 - JavaScript Based Image Classifier', '2731': 'Unit-060 - Project - JavaScript Based Image Classifier', '2732': 'Unit-061 - JavaScript Based Image Classifier'}}, '208': {'name': 'ML-105 Intro to Machine Learning Classifiers - Part 2', 'units': {'2635': 'ML-100 Materials Google Drive Link', '2619': 'VNC on Raspberry Pi - Optional', '2636': 'Unit-000 - Pre-course Placement Exam', '2613': 'Unit-010 - Python Development Environment and Introduction', '2614': 'Unit-020 - Python Conditional Statements and Boolean Logic', '2621': 'Unit-021 - Functions and Doctest Assignment', '2615': 'Unit-030 - Python Loops', '2641': 'Unit-031 - Python Loops Assignment', '2616': 'Unit-040 - Raspberry Pi based Image Classifier', '2617': 'Unit-050 - Introduction to Linux', '2618': 'Unit-060 - Linux Basics', '2620': 'Unit-070 - Project - Raspberry Pi Based Image Classifier', '2634': 'Unit-071 - Raspberry Pi Based Image Classifier Assignment', '2637': 'Unit-999 - Post-course Exit Exam', '2638': 'ML-105 Course Survey'}}, '133': {'name': 'ML-110 Object Detection Overview', 'units': {'2434': 'ML-110 Materials Links', '2533': 'Mounting a USB flash drive from the Raspberry Pi', '2449': 'VNC on Raspberry Pi', 
-'2437': 'ML-110 Discussion Group', '2417': 'Unit-000 - ML-110 Pre Course Exam', '2403': 'Unit-010 -  Introduction to Object Detection', '2406': 'Unit-020 - Project - Intro to Object Detection', '2404': 'Unit-021 - Intro to Object Detection Assignment', '2408': 'Unit-030 - Object 
-Detection Datasets and Formats', '2410': 'Unit-040 - Project - Object Detection Datasets', '2409': 'Unit-041 - Object Detection Datasets Assignment', '2411': 'Unit-050 - Object Detection with Pre-trained Models', '2450': 'Unit-060 - Project - RPi Object Detection with Pre-trained Models', '2414': 'Unit-061 - RPi Object Detector - PreTrained Model Assignment', '2415': 'Unit-070 - Project - Object Detection with User-generated Models', '2416': 'Unit-071 - Object Detector - User Generated Model Assignment', '2418': 'Unit-999 - ML-110 Post Course Exam', '2453': 'ML-110 Course Survey'}}, '134': {'name': 'ML-120 Neural Networks Overview', 'units': {'2433': 'ML-120 Materials Links', '2454': 'Unit-000 - ML-120 Pre-Course Exam', '2423': 'Unit-010 -  Intro to Neural Networks in Machine Learning', '2436': 'Unit-011 - Neural Network Visualization', '2424': 'Unit-020 -  A Simple Neural Network Example', '2427': 'Unit-030 - Project - Linear Equation Prediction using a Simple Neural Network', '2425': 'Unit-031 - Linear Equation Classification', '2447': 'Unit-035 - Project - Traditional and ML RPS Implementation', '2428': 'Unit-040 - Image Classification of Standard Datasets', '2429': 'Unit-050 - Project - Clothing Classifier using a Neural Network', '2422': 'Unit-051 - Neural network MNIST classifier', '2430': 'Unit-060 -  Introduction to Convolutional Neural Networks (CNN)', '2442': 'Unit-065 - Project - Convolutional and Max Pooling Calculations', '2431': 'Unit-066 - Convolutional and Max Pooling Calculations', '2432': 'Unit-070 - Project - Image Edge Detection using Convolution', '2426': 'Unit-071 - Convolutional Neural Networks - Colab', '2438': 'Unit-999 - ML-120 Post-Course Exam'}}, '209': {'name': 'ML-120 Neural Networks Overview - Part 1', 'units': {'2665': 'ML-120 Materials Links', '2663': 'Unit-000 - Pre-course Placement Exam', '2642': 'Unit-010 -  Intro to Neural Networks in Machine Learning', '2667': 'Unit-011 - Neural Network Visualization Assignment', '2643': 'Unit-020 -  A Simple Neural Network Example', '2644': 'Unit-030 - Python Lists and Dictionaries - 010', '2669': 'Unit-031 - Python Lists Assignment', '2670': 'Unit-032 - Python Dictionaries Assignment', '2645': 'Unit-040 - Python Multidimensional Arrays - 030', '2646': 'Unit-050 - Project - Linear Eqn Prediction using a Simple Neural Network - 030', '2668': 'Unit-051 - Linear Equation Classification Assignment', '2654': 'Unit-060 - Project - Traditional and ML RPS Implementation - 035', '2662': 'Unit-999 - Post-course Exit Exam', '2677': 'ML-120 Course Survey'}}, '210': {'name': 'ML-125 Neural Networks Overview - Part 2', 'units': {'2812': 'ML-125 Materials 
-Links', '2676': 'Unit-000 - Pre-course Placement Exam', '2649': 'Unit-010 - Image Classification of Standard Datasets - 040', '2650': 'Unit-020 - Project - Clothing Classifier using a Neural Network - 050', '2671': 'Unit-021 - Neural network MNIST classifier Assignment', '2651': 
-'Unit-030 -  Introduction to Convolutional Neural Networks (CNN) - 060', '2652': 'Unit-040 - Project - Convolutional and Max Pooling Calculations - 065', '2672': 'Unit-041 - Convolutional and Max Pooling Calculations Assignment', '2653': 'Unit-050 - Project - Image Edge Detection using Convolution - 070', '2673': 'Unit-051 - Convolutional Neural Networks - Colab Assignment', '2675': 'Unit-999 - Post-course Exit Exam', '2678': 'ML-125 Course Survey'}}, '135': {'name': 'ML-200 Python Foundations', 'units': {'2475': 'ML-200 Materials Links', '2510': 'Unit-000 - Pre-course Placement Exam', '2468': 'Unit-010 Python Development Environment and Introduction', '2469': 'Unit-020 Python Conditional Statements and Boolean Logic', '2473': 'Unit-021 - Functions and Doctest', '2470': 'Unit-030 Python Bitwise Operations and Random Numbers', '2471': 'Unit-040 Python Loops', '2640': 'Unit-041 - Python Loops', '2474': 'Unit-042 - Bitwise Operations and Random Numbers', '2472': 'Unit-050 Python Foundations Projects', '2696': 'Foundations Projects', '2511': 'Unit-999 - Post-course Exit Exam'}}, '211': {'name': 'ML-205 Python Data Structures and Advanced Functions', 'units': {'2685': 'ML-205 Materials Links', '2686': 'Doctest reference', '2693': 'Unit-000 - Pre-course Placement Exam', '2679': 'Unit-010 - Python Bitwise Operations and Random Numbers - 030', '2691': 'Unit-011 - Bitwise Operations and Random Numbers Assignment', '2680': 'Unit-020 - Python Foundations Projects - 050', '2697': 'Unit-021 - Foundations Projects Assignment', '2681': 'Unit-030 - Python Tuples and Sets -020', '2687': 'Unit-031 - Python Tuples Assignment', '2682': 'Unit-040 - Python Advanced Functions in Machine Learning - 040', '2688': 'Unit-041 - Python Advanced Functions Assignment', '2692': 'Unit-999 - Post-course Exit Exam'}}, '137': {'name': 'ML-210 Python Data Structures (Collections)', 'units': {'2493': 'ML-210 Materials Links', '2506': 'Doctest reference', '2503': 'Unit-000 - Pre-course Placement Exam', '2496': 'Unit-010 Python Lists and Dictionaries', '2505': 'Unit-011 - Python Lists', '2507': 'Unit-012 - Python Dictionaries', '2498': 'Unit-020 Python Tuples and Sets', '2508': 'Unit-021 - Python Tuples', '2499': 'Unit-030 Python Multidimensional Arrays', '2500': 'Unit-040 Python Advanced Functions in Machine Learning', '2509': 'Unit-041 - Python Advanced Functions', '2504': 'Unit-999 - Post-course Exit Exam'}}, '136': {'name': 'ML-220 Python Object Oriented Programming and Recursion', 'units': {'2488': 'ML-220 Materials Links', '2514': 'Unit-000 - Pre-course Placement Exam', '2479': 'Unit-010 - Intro to Object Oriented Programming in Python', '2480': 
-'Unit-020 - Inheritance and Encapsulation in Python', '2486': 'Unit-021 - Inheritance in Python Assignment', '2481': 'Unit-030 - Recursion in Python', '2482': 'Unit-040 - OOP Projects - Cards and Blackjack', '2487': 'Unit-041 - OOP Card_Deck Objects and Game Assignment', '2512': 
-'Unit-045 - Project - Maze Solver', '2513': 'Unit-046 - Maze Solver Assignment', '2483': 'Unit-050 - Sorting in Python', '2484': 'Unit-051 - Sorting Algorithms in Python - Part 1 Assignment', '2485': 'Unit-052 - Sorting Algorithms in Python - Part 2 Assignment', '2515': 'Unit-999 - Post-course Exit Exam'}}, '138': {'name': 'ML-230 Python File Input/Output and Exception Handling', 'units': {'2523': 'ML-230 Materials Links', '2527': 'Unit-000 - Pre-course Placement Exam', '2517': 'Unit-010 - Python File I/O with CSV and JSON', '2516': 'Unit-011 - File IO - Part 1 Assignment', '2518': 'Unit-020- Introduction to Standard Python Exceptions', '2519': 'Unit-021 - Exception Handling - Part 1 Assignment', '2521': 'Unit-022 - Exception Handling - Part 2 Assignment', '2520': 'Unit-030 - Project Koala', '2525': 'Unit-040 - Python Web Scraping', '2522': 'Unit-041 - Project - Python Web Scraper - Part 1 Assignment', '2524': 'Unit-042 - Project - Python Web Scraper - Part 2 Assignment', '2526': 'Unit-999 - Post-course Exit Exam'}}, '139': {'name': 'ML-300 Data Mining Intro and Preprocessing', 'units': {'2539': 'ML-300 Materials Links ', '2567': 'Unit-000 Pre-course Placement Exam', '2568': 'Unit-010 - Data Mining Introduction', '2569': 'Unit-020 - Linear 
-Algebra Introduction', '2577': 'Unit-021 - Intro and Linear Algebra Assignment', '2571': 'Unit-030 - Numpy Introduction', '2578': 'Unit-031 
-- Numpy Introduction Assignment', '2575': 'Unit-035 - Numpy Tables', '2705': 'Unit-036 - Numpy Tables Assignment', '2572': 'Unit-040 - Pandas Introduction', '2573': 'Unit-050 - Matplotlib Introduction', '2579': 'Unit-051 - Pandas and Matplotlib Assignment', '2574': 'Unit-055 Preprocessing Tools Review', '2580': 'Unit-060 - Happiness Project Assignment', '2566': 'Unit-999 Post-course Exit Exam'}}, '205': {'name': 'ML-310 Statistics Primer', 'units': {'2556': 'Materials Links', '2604': 'Unit-000 Pre-Course Placement Exam', '2598': 'Unit-010 - Displaying and Interpreting Data - Part 1', '2599': 'Unit-020 - Displaying and Interpreting Data - Part 2', '2593': 'Unit-021 - Interpreting Data 1 and 2 Assignment', '2600': 'Unit-030 - Z-scores', '2594': 'Unit-031 - Z-scores Assignment', '2601': 'Unit-040 - Confidence Intervals', '2602': 'Unit-050 - Significance Tests', '2595': 'Unit-051 - Significance Tests Part A - Population Proportion Assignment', '2596': 'Unit-052 - Significance Tests Part B - Population Mean Assignment', '2603': 'Unit-060 - Chi-squared Tests', '2597': 'Unit-061 - Chi-square Tests Assignment', '2605': 'Unit-999 Post-course Exit Exam'}}, '143': {'name': 'ML-320 Regression in Data Analysis', 'units': {'2778': 'ML-320 Materials Links', '2794': 'Unit-000 Pre-course Placement Exam', '2779': 'Unit-010 - Simple Linear Regression (SLR)', '2780': 'Unit-020 - Multiple Linear Regression', '2782': 'Unit-021 - Project - Simple & Multiple Linear Regression Assignment', '2781': 'Unit-030 - Polynomial Regression', '2783': 'Unit-031 - Project - Polynomial Regression Assignment', '2785': 'Unit-040 - Lasso Regression', '2784': 'Unit-041 - Project Lasso Regression Assignment', '2796': 'Unit-050 - Gradient Descent', '2793': 'Unit-051 - Project Gradient Descent Assignment', '2792': 'Unit-060 Logistic 
-Regression', '2786': 'Unit-061 - Project - Logistic Regression Assignment', '2795': 'Unit-999 Post-course Exit Exam'}}, '206': {'name': 'ML-330 Databases with SQLite', 'units': {'2853': 'ML-330 Materials Links', '2817': 'Unit-000 Pre-course Placement Exam', '2819': 'Unit-010 - SQLite Introduction', '2820': 'Unit-020 - SQLite Setup', '2830': 'Unit-021 - Introduction to Databases Assignment', '2821': 'Unit-030 - SQLite Simple Queries', '2822': 'Unit-040 - SQLite Multi-table Queries', '2841': 'Unit-041 - Database Queries Assignment', '2823': 'Unit-050 - SQLite Subqueries', '2824': 'Unit-060 - SQLite Query Summaries', '2855': 'Unit-061 - Database Queries Project Assignment', '2825': 'Unit-070 - 
-SQLite Database Updates', '2826': 'Unit-080 - SQLite Data Integrity', '2827': 'Unit-090 - SQLite Database Design', '2856': 'Unit-091 - SQLite Database Design Assignment', '2818': 'Unit-999 Post-course Exit Exam'}}, '144': {'name': 'ML-340 Exploratory Data Analysis Projects', 'units': {}}, '146': {'name': 'ML-400 Machine Learning Introduction', 'units': {'2213': 'Introduction to Machine Learning', '2214': 'Development Environment and Tools', '2215': 'Project 1 - Machine learning using Pre-trained Models', '2216': 'Project 2 - Machine Learning Example Implementation'}}, '150': {'name': 'ML-440 Classification Introduction and KNN', 'units': {'2230': 'Introduction to Classification ', '2231': 'KNN with 1 Independent Variable', '2232': 'KNN with Multiple Independent Variables - Preprocessing', '2233': 'KNN - Multiple Independent Variables - Algorithm', '2234': 'Project 1 - KNN  ********'}}, '151': {'name': 'ML-450 Decision Trees', 'units': {'2235': 'Evaluation with the Confusion Matrix', '2236': 'Recall, precision, and F1-score', '2237': 'Project 1 - Example Confusion Matrix Application', '2238': 'Decision Trees Introduction  ********'}}, '152': {'name': 'ML-460 Support Vector Machines', 'units': {'2239': 'Introduction to SVM', '2240': 'Distortion, Variance, Entropy', '2241': 'Project 1 - Application of SVM', '2242': 'Project 2 - SVM application ********'}}, '153': {'name': 'ML-470 
-K-Means Clustering', 'units': {'2243': 'Introduction to Clustering and K-means', '2244': 'Centroids and Linear Clustering', '2245': 'K-means Clustering in 2-dimensions', '2246': 'Evaluation Techniques and the Elbow Curve', '2247': 'Project 1 - K-means ********'}}, '154': {'name': 'ML-480 Hierarchical Clustering', 'units': {'2248': 'Introduction and Applications', '2249': 'Hierarchical Agglomerative Clustering with Linear Data', '2250': 'Hierarchical Agglomerative Clustering with  2-dimensional Data', '2251': 'Project 1 - Hierarchical Clustering Application'}}, '155': {'name': 'ML-490 Recommender Systems', 'units': {'2252': 'Introduction to Recommender Systems', '2253': 'Content-based and Collaborative Filtering', '2254': 'Collaborative Filtering - Item Based Example', '2255': 'Collaborative Filtering - Item Based Implementation', '2256': 'Project 1 - Collaborative Filtering Application ********'}}, '156': {'name': 'ML-500 Introduction to Neural Networks', 'units': {'2257': 'Intro to Neural Networks', '2258': 'Biological Neuron and Electrical Model', '2259': 'Project 1 - Neural Network Application ********'}}, '157': {'name': 'ML-510 The Perceptron', 'units': {'2260': 'Introduction to the Perceptron', '2261': 'Single Perceptron Classification', '2262': 'Single layer Perceptron Implementation', '2263': 'Project 1 - Logic function Implementations using Single Layer Perceptron xx', '2264': 'Project 2 - Classification using Single Layer Perceptron'}}, '158': {'name': 'ML-520 Multi-Layer Perceptron', 'units': {'2265': 'Introduction to Multi-layer Perceptron', '2266': 'XOR function using Multi-layer Perceptron', '2267': 'Activation Functions', '2268': 'Project 1 - Application of Multi-layer Perceptron ********'}}, '159': {'name': 'ML-530 Linear Algebra and Gradient Descent', 'units': {'2269': 'Linear Algebra for Machine Learning ********', '2270': 'Derivatives for Machine Learning', '2271': 'Partial Differentiation for Machine Learning', '2272': 'Cost Functions', '2273': 'Gradient Descent'}}, '160': {'name': 'ML-540 MLP Classification', 'units': {'2274': 'Introduction to Multi-layer Perceptron (MLP) Classification', '2275': 'MLP Training', '2276': 'MLP Back-propagation', '2277': 'MLP Layer and Nodes Considerations ********', '2278': 'Project 1 - MLP Linear Classification', '2279': 'Project 2 - MLP Non-linear Classification', '2280': 'Project 3: 
- MLP Advanced Classification'}}, '161': {'name': 'ML-550 Convolutional Neural Networks *******', 'units': {}}, '162': {'name': 'ML-560 Deep 
-Learning Tools ********', 'units': {}}, '163': {'name': 'ML-600 Advanced Topics Introduction ********', 'units': {}}, '164': {'name': 'ML-610 YOLO ********', 'units': {}}, '165': {'name': 'ML-620 Computer Vision ********', 'units': {}}, '166': {'name': 'ML-630 GPU Acceleration ********', 'units': {}}, '167': {'name': 'ML-640  Applications of Machine Learning to Robotics ********', 'units': {}}, '170': {'name': 'ML-650 Faster RCNN ********', 'units': {}}, '169': {'name': 'ML-660 Single-Shot multibox Detector (SSD) ********', 'units': {'2288': 'Reference link here'}}, '203': {'name': 'MLF-100 Course Placement Exams', 'units': {'2456': 'ML-100 Placement Exam', '2457': 'ML-110 Placement Exam', '2458': 'ML-120 Placement Exam'}}, '199': {'name': 'MLF-100 IAPS Fri 3:30-5:00 PM', 'units': {'2394': 'MLF-100 Sept IAPS', '2528': 'MLF-100 Oct IAPS', '2535': 'MLF-100 Nov IAPS', '2582': 'MLF-100 Dec IAPS', '2588': "MLF-100 Jan '21 IAPS", '2656': "MLF-100 Feb '21 IAPS", '2699': "MLF-100 Mar '21 IAPS", '2787': "MLF-100 April '21 IAPS", '2805': "MLF-100 May '21 IAPS", '2808': "MLF-100 June '21 IAPS"}}, '200': {'name': 'MLF-100 IAPS Fri 5:00-6:30 PM', 'units': {'2396': 'MLF-100 Sept IAPS', '2529': 'MLF-100 Oct IAPS', '2536': 'MLF-100 Nov IAPS', '2583': 'MLF-100 Dec IAPS', '2589': "MLF-100 Jan '21 IAPS", '2657': "MLF-100 Feb '21 IAPS", '2700': "MLF-100 Mar '21 IAPS", '2788': "MLF-100 April '21 IAPS", '2806': "MLF-100 May '21 IAPS", '2809': "MLF-100 June '21 IAPS"}}, '202': {'name': 'MLF-100 IAPS Sun 2:00-3:30 PM', 'units': {'2455': 'MLF-100 Sept IAPS', '2530': 'MLF-100 Oct IAPS', '2537': 'MLF-100 Nov IAPS', '2585': 'MLF-100 Dec IAPS', '2590': "MLF-100 Jan '21 IAPS", '2658': "MLF-100 Feb '21 IAPS", '2701': "MLF-100 Mar '21 IAPS", '2789': "MLF-100 April '21 IAPS", '2802': "MLF-100 May '21 IAPS", '2810': "MLF-100 June '21 IAPS"}}, '196': {'name': 'MLF-100 IAPS Sun 3:30-5:00 PM', 'units': {'2377': 'MLF-100 Sept IAPS', '2531': 'MLF-100 Oct IAPS', '2538': 'MLF-100 Nov IAPS', '2586': 'MLF-100 Dec IAPS', '2591': "MLF-100 Jan '21 IAPS", '2659': "MLF-100 Feb '21 IAPS", '2702': "MLF-100 Mar '21 IAPS", '2790': "MLF-100 April '21 IAPS", '2803': "MLF-100 May '21 IAPS", '2811': "MLF-100 June '21 IAPS"}}, '195': {'name': 'MLF-100 IAPS 
-Wed 5:00-6:30 PM', 'units': {'2376': "MLF-100 Sept '20 IAPS", '2532': "MLF-100 Oct '20 IAPS", '2534': "MLF-100 Nov '20 IAPS", '2581': "MLF-100 Dec '20 IAPS", '2592': "MLF-100 Jan '21 IAPS", '2655': "MLF-100 Feb '21 IAPS", '2698': "MLF-100 Mar '21 IAPS", '2791': "MLF-100 April '21 IAPS", '2804': "MLF-100 May '21 IAPS", '2807': "MLF-100 June '21 IAPS"}}, '218': {'name': 'Sample Machine Learning Course by NexStream', 'units': {'2768': 'Samples from ML-100 - Intro to Machine Learning Classifiers', '2770': 'Unit-050 - JavaScript Based Image Classifier', '2771': 'Unit-060 - Project - JavaScript Based Image Classifier', '2769': 'Samples from ML-120 - Neural Networks Overview', '2772': 'Unit-010 -  
-Intro to Neural Networks in Machine Learning'}}, '213': {'name': 'Test Course - China', 'units': {'2720': 'Unit-045 - JavaScript Introduction', '2865': 'Unit-LRStest1', '2869': 'Config_test'}}, '114': {'name': 'This is a SCORM Example Course', 'units': {'2044': 'How to Perform CPR'}}, '168': {'name': 'Video Conference', 'units': {'2371': 'Test Discussion', '2419': 'Unit-030 with Transcript', '2281': 'Weekly Meetings', '2397': 'Test Survey', '2465': 'Test IAPS', '2587': 'Unit-010 Python Bitwise Operations and Random Numbers', '2704': 'Test Exam'}}}
+{
+    "124": {
+        "name": "Advanced Features of TalentLMS",
+        "units": {
+            "1993": "Enhance your course",
+            "1994": "How to add conferences",
+            "1995": "How to create Instructor-led Training",
+            "1996": "How to clone courses & units",
+            "1997": "Managing your users",
+            "1998": "How to use Groups",
+            "1999": "How to use Branches",
+            "2000": "How to customize User Types",
+            "2001": "Advanced features",
+            "2002": "How to work with Automations",
+            "2003": "Selling courses",
+            "2004": "How to sell your courses"
+        }
+    },
+    "194": {
+        "name": "CE-000 - Welcome to the Computer Engineering Stream",
+        "units": {
+            "2323": "Introduction to Computer Engineering Stream SCORM"
+        }
+    },
+    "126": {
+        "name": "CE-100 - DC Electronics, Fundamentals",
+        "units": {
+            "2864": "Welcome to Computer Engineering",
+            "2072": "What is Electricity",
+            "2082": "Electricity and Water Analogy",
+            "2083": "How is Electricity Generated",
+            "2084": "What are Electronic Components & Circuits",
+            "2085": "Summary",
+            "2090": "Project - DIY Battery",
+            "2075": "Electrical Quantities",
+            "2086": "Voltage Potential",
+            "2087": "Electric Current",
+            "2088": "Voltage and Current Sources",
+            "2089": "Summary",
+            "2091": "Project - Voltage and Current Measurements",
+            "2078": "Engineering Notation",
+            "2079": "Engineering Notation",
+            "2051": "Engineering Notation",
+            "2052": "Engineering Notation Assignment",
+            "2053": "Engineering Notation Test",
+            "2080": "Resistance",
+            "2092": "Resistance as a Physical Property of Material",
+            "2093": "Resistors",
+            "2094": "Resistance of a Wire",
+            "2095": "Sensors as Resistors",
+            "2097": "Summary",
+            "2096": "Project - A Simple Resistive Sensor Circuit",
+            "2098": "Ohm's Law",
+            "2099": "Voltage Experiment",
+            "2100": "Resistance Experiment",
+            "2101": "Deriving Ohm's Law",
+            "2102": "Electric Power",
+            "2103": "Summary",
+            "2104": "Project - Introduction to SPICE (Simulation SW)"
+        }
+    },
+    "217": {
+        "name": "CE-100NS - DC Electronics, Fundamentals - NexStarter",
+        "units": {
+            "2735": "Section 1 - Electricity and Ohm's Law",
+            "2798": "Welcome to Section 1",
+            "2816": "Unit-010 What is Electricity",
+            "2836": "Unit-020 Electrical Quantities and Resistance",
+            "2837": "Unit-030 Multimeters and Electrical Measurements",
+            "2839": "Unit-040 Ohm's Law",
+            "2742": "Section 2 - Fun with RC Circuits",
+            "2838": "Welcome to Section 2",
+            "2845": "Unit-050 Photo Sensor Circuit",
+            "2840": "Unit-060 Capacitors and RC Circuits",
+            "2843": "Unit-070 Intro to Didoes and Transistors",
+            "2849": "Unit-080 Magic Light Project",
+            "2748": "Section 3 - Fun with 555 Timers",
+            "2844": "Welcome to Section 3",
+            "2848": "Unit-090 Integrated Circuits and 555 Timer Project",
+            "2754": "Section 4 - Intro to Digital Logic",
+            "2846": "Welcome to Section 4",
+            "2850": "Unit-120 Introduction to Digital Logic",
+            "2851": "Unit-130 Two Bit Full Adder"
+        }
+    },
+    "130": {
+        "name": "CE-110 - DC Electronics, Intermediate",
+        "units": {
+            "2105": "Series Resistive Networks",
+            "2106": "Kirchhoff's Voltage Law",
+            "2107": "Series Resistive Network Experiment",
+            "2108": "Series Resistive Networks",
+            "2304": "Transistors as Switches",
+            "2109": "Summary",
+            "2110": "Project - Simple Light Sensor Circuit",
+            "2111": "Parallel Resistive Networks",
+            "2112": "Kirchhoff's Current Law",
+            "2113": "Parallel Resistive Network Experiment",
+            "2114": "Parallel Resistive Network",
+            "2115": "Summary",
+            "2116": "Project - Simple Thermostat Circuit",
+            "2117": "Capacitors",
+            "2118": "Dimming LED Experiment",
+            "2119": "Water Analogy",
+            "2120": "Charge and Discharge Times",
+            "2121": "Summary",
+            "2122": "Project - DIY Capacitor",
+            "2123": "Oscilloscopes and Signal Generators",
+            "2124": "Oscilloscopes for Measuring Time Varying Signals",
+            "2125": "Arbitrary Signal Generators",
+            "2126": "Summary",
+            "2127": "Project - Measuring DIY Capacitor",
+            "2128": "Series and Parallel Capacitive Networks",
+            "2129": "Parallel Capacitor Experiment",
+            "2130": "Kirchhoff's Current Law and Parallel Capcitive Networks",
+            "2131": "Series Capacitor Experiment",
+            "2132": "Kirchhoff's Voltage Law and Series Capacitive Networks",
+            "2133": "Summary",
+            "2134": "Project - Series & Parallel Capacitive Network Measurements"
+        }
+    },
+    "131": {
+        "name": "CE-120 - DC Electronics, Advanced",
+        "units": {
+            "2135": "555 Timer Chip",
+            "2136": "How 555 Timer Works",
+            "2137": "Project - A Simple LED Blinking Circuit",
+            "2138": "Inductors",
+            "2139": "Alternating LED Experiment",
+            "2140": "Water Analogy - Inductors",
+            "2141": "Inductor's Charge and Discharge Time",
+            "2142": "Summary",
+            "2143": "Project - DIY Inductor",
+            "2144": "Series and Parallel Inductive Networks",
+            "2145": "Series Inductor Experiment",
+            "2146": "Kirchhoff’s Voltage Law and Series Inductive Networks",
+            "2147": "Parallel Inductor Experiment",
+            "2148": "Kirchhoff’s Current Law and Parallel Inductive Networks",
+            "2149": "Summary",
+            "2150": "Project – Series & Parallel Capacitor Network Measurements",
+            "2153": "Capstone Project",
+            "2154": "Eagle Schematic Capture Tutorial",
+            "2155": "Eagle Board Layout Tutorial",
+            "2156": "Electronic Piano Circuit Design",
+            "2157": "Surface Mount Board Assembly Tutorial",
+            "2158": "Soldering Tutorial",
+            "2159": "Debugging Tutorial"
+        }
+    },
+    "174": {
+        "name": "CE-130 - AC Electronics, Fundamentals",
+        "units": {}
+    },
+    "175": {
+        "name": "CE-140 - AC Electronics, Intermediate",
+        "units": {}
+    },
+    "176": {
+        "name": "CE-200 - Digital Electronics, Fundamentals",
+        "units": {}
+    },
+    "177": {
+        "name": "CE-210 - Digital Electronics, Intermediate",
+        "units": {}
+    },
+    "178": {
+        "name": "CE-220 - Logic Arrays, Fundamentals",
+        "units": {}
+    },
+    "179": {
+        "name": "CE-230 - Logic Arrays, Intermediate",
+        "units": {}
+    },
+    "180": {
+        "name": "CE-300 - Arithmetic Logic Unit (ALU)",
+        "units": {}
+    },
+    "181": {
+        "name": "CE-300L - Arithmetic Logic Unit Design",
+        "units": {}
+    },
+    "182": {
+        "name": "CE-310 - Microprocessor Instruction Set",
+        "units": {}
+    },
+    "183": {
+        "name": "CE-310L - Microprocessor Instruction Set Design",
+        "units": {}
+    },
+    "184": {
+        "name": "CE-320 - Microprocessor Memory Management Unit (MMU)",
+        "units": {}
+    },
+    "185": {
+        "name": "CE-320L - Memory Management Unit Design (clone)",
+        "units": {}
+    },
+    "186": {
+        "name": "CE-330 - Microprocessor Input and Output (I/O) Interface",
+        "units": {}
+    },
+    "187": {
+        "name": "CE-330L - Microprocessor Interface Design",
+        "units": {}
+    },
+    "188": {
+        "name": "CE-340L - Calculator Design",
+        "units": {}
+    },
+    "189": {
+        "name": "CE-400 - Microprocessor Subsystem, Memory Interface",
+        "units": {}
+    },
+    "190": {
+        "name": "CE-410 - Microprocessor Subsystem, Peripherals",
+        "units": {}
+    },
+    "191": {
+        "name": "CE-420 - Microprocessor Subsystem, Board Support Package (BSP) & Operating System (OS)",
+        "units": {}
+    },
+    "192": {
+        "name": "CE-430L - Microprocessor Subsystem Design",
+        "units": {}
+    },
+    "46": {
+        "name": "Content and TalentLMS",
+        "units": {
+            "2005": "Welcome to Content and TalentLMS",
+            "2006": "HOW EACH CONTENT TYPE WORKS",
+            "2007": "Content Types to Use in Your Courses",
+            "2008": "Uploading a Cool Image",
+            "2009": "Embedding Online Content",
+            "2010": "Embedding Videos",
+            "2011": "PowerPoint Presentation as a Video",
+            "2012": "Uploading Audio",
+            "2013": "Using Documents and Presentations",
+            "2014": "Embedding with iFrame",
+            "2015": "ASSESSMENTS AS PART OF A COURSE",
+            "2016": "Using Assessments",
+            "2017": "Working with Surveys"
+        }
+    },
+    "113": {
+        "name": "Employee Training 101",
+        "units": {
+            "2028": "Welcome to Employee Training 101",
+            "2029": "GETTING STARTED",
+            "2030": "What is Employee Training?",
+            "2031": "Benefits of Employee Training",
+            "2032": "How to Set Up an Employee Training Plan",
+            "2033": "BASIC TYPES OF EMPLOYEE TRAINING",
+            "2034": "Onboarding",
+            "2035": "Compliance",
+            "2036": "Technical Skills Development",
+            "2037": "EVALUATION",
+            "2038": "How Can an LMS Help with Assessments?",
+            "2039": "How to Phrase Employee Evaluation Comments",
+            "2040": "The Power of Employee Training",
+            "2041": "One Company, One Platform, Multiple Training Types",
+            "2042": "Training a Workforce of 1,200",
+            "2043": "Employee Training in Complex Organizations"
+        }
+    },
+    "122": {
+        "name": "Getting Started With eLearning",
+        "units": {
+            "2018": "Welcome to Getting Started With eLearning",
+            "2019": "eLearning FUNDAMENTALS",
+            "2020": "What is an LMS?",
+            "2021": "Why Do You Need eLearning?",
+            "2022": "Why You Should Invest in an LMS (Infographic)",
+            "2023": "eLearning Tactics",
+            "2024": "Blended Learning: When Online Meets Offline",
+            "2025": "Rapid eLearning: Save Time and Money",
+            "2026": "Gamifying the Learning Process",
+            "2027": "How Can a Subject Matter Expert Help?"
+        }
+    },
+    "123": {
+        "name": "Introduction to TalentLMS",
+        "units": {
+            "2046": "User roles in TalentLMS",
+            "1982": "Creating courses",
+            "1983": "How to add content to a course",
+            "1984": "How to add tests",
+            "1985": "How to add assignments",
+            "1986": "How to add files",
+            "1987": "Managing your account",
+            "1988": "How to view reports",
+            "1989": "How to customize your account",
+            "1990": "How to import & export data",
+            "1991": "How to set up Notifications",
+            "1992": "How to set up Gamification"
+        }
+    },
+    "171": {
+        "name": "Machine Learning Stream Overview",
+        "units": {
+            "2367": "Machine Learning Stream Overview"
+        }
+    },
+    "219": {
+        "name": "ML Test Course",
+        "units": {
+            "2861": "ML-100 Course Exam",
+            "2862": "ML-220 Course Exam",
+            "2863": "Free Response Question"
+        }
+    },
+    "212": {
+        "name": "ML-100 Intro to Machine Learning - Chinese",
+        "units": {
+            "2695": "Unit-030 - Teachable Machine Introduction"
+        }
+    },
+    "207": {
+        "name": "ML-100 Intro to Machine Learning Classifiers - Part 1",
+        "units": {
+            "2628": "ML-100 Materials Google Drive Link",
+            "2626": "Unit-000 - Pre-course Placement Exam",
+            "2606": "Unit-010 -  Project - Human Classification of Images",
+            "2607": "Unit-020 -  Intro to Learning Systems and Image Classification",
+            "2629": "Unit-021 - Intro to Classifiers Assignment",
+            "2608": "Unit-030 - Teachable Machine Introduction",
+            "2609": "Unit-040 - Project - Teachable Machine Based Image Classifier",
+            "2630": "Unit-041 - Intro to Teachable Machine Assignment",
+            "2623": "Unit-045 - JavaScript Introduction",
+            "2611": "Unit-050 - JavaScript Based Image Classifier",
+            "2612": "Unit-060 - Project - JavaScript Based Image Classifier",
+            "2631": "Unit-061 - JavaScript Based Image Classifier Assignment",
+            "2627": "Unit-999 - Post-course Exit Exam",
+            "2632": "ML-100 Course Survey"
+        }
+    },
+    "132": {
+        "name": "ML-100 Teachable Machine Classifiers",
+        "units": {
+            "2167": "Classifiers",
+            "2435": "ML-100 Materials Google Drive Link",
+            "2448": "VNC on Raspberry Pi - optional",
+            "2372": "ML-100 Discussion Group",
+            "2395": "Unit-000 - ML-100 Pre Course Assessment",
+            "2329": "Unit-010 -  Project - Human Classification of Images",
+            "2352": "Unit-020 -  Intro to Learning Systems and Image Classification",
+            "2358": "Unit-021 - Intro to Classifiers Assignment",
+            "2340": "Unit-030 - Teachable Machine Introduction",
+            "2343": "Unit-040 - Project - Teachable Machine Based Image Classifier",
+            "2364": "Unit-041 - Intro to Teachable Machine Assignment",
+            "2660": "Unit-045 - JavaScript Introduction",
+            "2345": "Unit-050 - JavaScript Based Image Classifier",
+            "2347": "Unit-060 - Project - JavaScript Based Image Classifier",
+            "2365": "Unit-061 - JavaScript Based Image Classifier Assignment",
+            "2351": "Unit-070 - Raspberry Pi based Image Classifier",
+            "2420": "Unit-072 - Introduction to Linux",
+            "2439": "Unit-075 - Linux Basics",
+            "2370": "Unit-080 - Project - Raspberry Pi Based Image Classifier",
+            "2366": "Unit-081 - Raspberry Pi Based Image Classifier Assignment",
+            "2359": "Unit-999 - ML-100 Post Course Assessment",
+            "2401": "ML-100 Course Survey"
+        }
+    },
+    "216": {
+        "name": "ML-100NS Intro to Machine Learning Classifiers - NexStarter",
+        "units": {
+            "2799": "ML-100NS Introductions",
+            "2723": "Unit-010 -  Project - Human Classification of Images",
+            "2724": "Unit-020 -  Intro to Learning Systems and Image Classification",
+            "2725": "Unit-021 - Intro to Classifiers",
+            "2726": "Unit-030 - Teachable Machine Introduction",
+            "2727": "Unit-040 - Project - Teachable Machine Based Image Classifier",
+            "2728": "Unit-041 - Intro to Teachable Machine",
+            "2729": "Unit-045 - JavaScript Introduction",
+            "2730": "Unit-050 - JavaScript Based Image Classifier",
+            "2731": "Unit-060 - Project - JavaScript Based Image Classifier",
+            "2732": "Unit-061 - JavaScript Based Image Classifier"
+        }
+    },
+    "208": {
+        "name": "ML-105 Intro to Machine Learning Classifiers - Part 2",
+        "units": {
+            "2635": "ML-100 Materials Google Drive Link",
+            "2619": "VNC on Raspberry Pi - Optional",
+            "2636": "Unit-000 - Pre-course Placement Exam",
+            "2613": "Unit-010 - Python Development Environment and Introduction",
+            "2614": "Unit-020 - Python Conditional Statements and Boolean Logic",
+            "2621": "Unit-021 - Functions and Doctest Assignment",
+            "2615": "Unit-030 - Python Loops",
+            "2641": "Unit-031 - Python Loops Assignment",
+            "2616": "Unit-040 - Raspberry Pi based Image Classifier",
+            "2617": "Unit-050 - Introduction to Linux",
+            "2618": "Unit-060 - Linux Basics",
+            "2620": "Unit-070 - Project - Raspberry Pi Based Image Classifier",
+            "2634": "Unit-071 - Raspberry Pi Based Image Classifier Assignment",
+            "2637": "Unit-999 - Post-course Exit Exam",
+            "2638": "ML-105 Course Survey"
+        }
+    },
+    "133": {
+        "name": "ML-110 Object Detection Overview",
+        "units": {
+            "2434": "ML-110 Materials Links",
+            "2533": "Mounting a USB flash drive from the Raspberry Pi",
+            "2449": "VNC on Raspberry Pi",
+            "2437": "ML-110 Discussion Group",
+            "2417": "Unit-000 - ML-110 Pre Course Exam",
+            "2403": "Unit-010 -  Introduction to Object Detection",
+            "2406": "Unit-020 - Project - Intro to Object Detection",
+            "2404": "Unit-021 - Intro to Object Detection Assignment",
+            "2408": "Unit-030 - Object Detection Datasets and Formats",
+            "2410": "Unit-040 - Project - Object Detection Datasets",
+            "2409": "Unit-041 - Object Detection Datasets Assignment",
+            "2411": "Unit-050 - Object Detection with Pre-trained Models",
+            "2450": "Unit-060 - Project - RPi Object Detection with Pre-trained Models",
+            "2414": "Unit-061 - RPi Object Detector - PreTrained Model Assignment",
+            "2415": "Unit-070 - Project - Object Detection with User-generated Models",
+            "2416": "Unit-071 - Object Detector - User Generated Model Assignment",
+            "2418": "Unit-999 - ML-110 Post Course Exam",
+            "2453": "ML-110 Course Survey"
+        }
+    },
+    "134": {
+        "name": "ML-120 Neural Networks Overview",
+        "units": {
+            "2433": "ML-120 Materials Links",
+            "2454": "Unit-000 - ML-120 Pre-Course Exam",
+            "2423": "Unit-010 -  Intro to Neural Networks in Machine Learning",
+            "2436": "Unit-011 - Neural Network Visualization",
+            "2424": "Unit-020 -  A Simple Neural Network Example",
+            "2427": "Unit-030 - Project - Linear Equation Prediction using a Simple Neural Network",
+            "2425": "Unit-031 - Linear Equation Classification",
+            "2447": "Unit-035 - Project - Traditional and ML RPS Implementation",
+            "2428": "Unit-040 - Image Classification of Standard Datasets",
+            "2429": "Unit-050 - Project - Clothing Classifier using a Neural Network",
+            "2422": "Unit-051 - Neural network MNIST classifier",
+            "2430": "Unit-060 -  Introduction to Convolutional Neural Networks (CNN)",
+            "2442": "Unit-065 - Project - Convolutional and Max Pooling Calculations",
+            "2431": "Unit-066 - Convolutional and Max Pooling Calculations",
+            "2432": "Unit-070 - Project - Image Edge Detection using Convolution",
+            "2426": "Unit-071 - Convolutional Neural Networks - Colab",
+            "2438": "Unit-999 - ML-120 Post-Course Exam"
+        }
+    },
+    "209": {
+        "name": "ML-120 Neural Networks Overview - Part 1",
+        "units": {
+            "2665": "ML-120 Materials Links",
+            "2663": "Unit-000 - Pre-course Placement Exam",
+            "2642": "Unit-010 -  Intro to Neural Networks in Machine Learning",
+            "2667": "Unit-011 - Neural Network Visualization Assignment",
+            "2643": "Unit-020 -  A Simple Neural Network Example",
+            "2644": "Unit-030 - Python Lists and Dictionaries - 010",
+            "2669": "Unit-031 - Python Lists Assignment",
+            "2670": "Unit-032 - Python Dictionaries Assignment",
+            "2645": "Unit-040 - Python Multidimensional Arrays - 030",
+            "2646": "Unit-050 - Project - Linear Eqn Prediction using a Simple Neural Network - 030",
+            "2668": "Unit-051 - Linear Equation Classification Assignment",
+            "2654": "Unit-060 - Project - Traditional and ML RPS Implementation - 035",
+            "2662": "Unit-999 - Post-course Exit Exam",
+            "2677": "ML-120 Course Survey"
+        }
+    },
+    "210": {
+        "name": "ML-125 Neural Networks Overview - Part 2",
+        "units": {
+            "2812": "ML-125 Materials Links",
+            "2676": "Unit-000 - Pre-course Placement Exam",
+            "2649": "Unit-010 - Image Classification of Standard Datasets - 040",
+            "2650": "Unit-020 - Project - Clothing Classifier using a Neural Network - 050",
+            "2671": "Unit-021 - Neural network MNIST classifier Assignment",
+            "2651": "Unit-030 -  Introduction to Convolutional Neural Networks (CNN) - 060",
+            "2652": "Unit-040 - Project - Convolutional and Max Pooling Calculations - 065",
+            "2672": "Unit-041 - Convolutional and Max Pooling Calculations Assignment",
+            "2653": "Unit-050 - Project - Image Edge Detection using Convolution - 070",
+            "2673": "Unit-051 - Convolutional Neural Networks - Colab Assignment",
+            "2675": "Unit-999 - Post-course Exit Exam",
+            "2678": "ML-125 Course Survey"
+        }
+    },
+    "135": {
+        "name": "ML-200 Python Foundations",
+        "units": {
+            "2475": "ML-200 Materials Links",
+            "2510": "Unit-000 - Pre-course Placement Exam",
+            "2468": "Unit-010 Python Development Environment and Introduction",
+            "2469": "Unit-020 Python Conditional Statements and Boolean Logic",
+            "2473": "Unit-021 - Functions and Doctest",
+            "2470": "Unit-030 Python Bitwise Operations and Random Numbers",
+            "2471": "Unit-040 Python Loops",
+            "2640": "Unit-041 - Python Loops",
+            "2474": "Unit-042 - Bitwise Operations and Random Numbers",
+            "2472": "Unit-050 Python Foundations Projects",
+            "2696": "Foundations Projects",
+            "2511": "Unit-999 - Post-course Exit Exam"
+        }
+    },
+    "211": {
+        "name": "ML-205 Python Data Structures and Advanced Functions",
+        "units": {
+            "2685": "ML-205 Materials Links",
+            "2686": "Doctest reference",
+            "2693": "Unit-000 - Pre-course Placement Exam",
+            "2679": "Unit-010 - Python Bitwise Operations and Random Numbers - 030",
+            "2691": "Unit-011 - Bitwise Operations and Random Numbers Assignment",
+            "2680": "Unit-020 - Python Foundations Projects - 050",
+            "2697": "Unit-021 - Foundations Projects Assignment",
+            "2681": "Unit-030 - Python Tuples and Sets -020",
+            "2687": "Unit-031 - Python Tuples Assignment",
+            "2682": "Unit-040 - Python Advanced Functions in Machine Learning - 040",
+            "2688": "Unit-041 - Python Advanced Functions Assignment",
+            "2692": "Unit-999 - Post-course Exit Exam"
+        }
+    },
+    "137": {
+        "name": "ML-210 Python Data Structures (Collections)",
+        "units": {
+            "2493": "ML-210 Materials Links",
+            "2506": "Doctest reference",
+            "2503": "Unit-000 - Pre-course Placement Exam",
+            "2496": "Unit-010 Python Lists and Dictionaries",
+            "2505": "Unit-011 - Python Lists",
+            "2507": "Unit-012 - Python Dictionaries",
+            "2498": "Unit-020 Python Tuples and Sets",
+            "2508": "Unit-021 - Python Tuples",
+            "2499": "Unit-030 Python Multidimensional Arrays",
+            "2500": "Unit-040 Python Advanced Functions in Machine Learning",
+            "2509": "Unit-041 - Python Advanced Functions",
+            "2504": "Unit-999 - Post-course Exit Exam"
+        }
+    },
+    "136": {
+        "name": "ML-220 Python Object Oriented Programming and Recursion",
+        "units": {
+            "2488": "ML-220 Materials Links",
+            "2514": "Unit-000 - Pre-course Placement Exam",
+            "2479": "Unit-010 - Intro to Object Oriented Programming in Python",
+            "2480": "Unit-020 - Inheritance and Encapsulation in Python",
+            "2486": "Unit-021 - Inheritance in Python Assignment",
+            "2481": "Unit-030 - Recursion in Python",
+            "2482": "Unit-040 - OOP Projects - Cards and Blackjack",
+            "2487": "Unit-041 - OOP Card_Deck Objects and Game Assignment",
+            "2512": "Unit-045 - Project - Maze Solver",
+            "2513": "Unit-046 - Maze Solver Assignment",
+            "2483": "Unit-050 - Sorting in Python",
+            "2484": "Unit-051 - Sorting Algorithms in Python - Part 1 Assignment",
+            "2485": "Unit-052 - Sorting Algorithms in Python - Part 2 Assignment",
+            "2515": "Unit-999 - Post-course Exit Exam"
+        }
+    },
+    "138": {
+        "name": "ML-230 Python File Input/Output and Exception Handling",
+        "units": {
+            "2523": "ML-230 Materials Links",
+            "2527": "Unit-000 - Pre-course Placement Exam",
+            "2517": "Unit-010 - Python File I/O with CSV and JSON",
+            "2516": "Unit-011 - File IO - Part 1 Assignment",
+            "2518": "Unit-020- Introduction to Standard Python Exceptions",
+            "2519": "Unit-021 - Exception Handling - Part 1 Assignment",
+            "2521": "Unit-022 - Exception Handling - Part 2 Assignment",
+            "2520": "Unit-030 - Project Koala",
+            "2525": "Unit-040 - Python Web Scraping",
+            "2522": "Unit-041 - Project - Python Web Scraper - Part 1 Assignment",
+            "2524": "Unit-042 - Project - Python Web Scraper - Part 2 Assignment",
+            "2526": "Unit-999 - Post-course Exit Exam"
+        }
+    },
+    "139": {
+        "name": "ML-300 Data Mining Intro and Preprocessing",
+        "units": {
+            "2539": "ML-300 Materials Links ",
+            "2567": "Unit-000 Pre-course Placement Exam",
+            "2568": "Unit-010 - Data Mining Introduction",
+            "2569": "Unit-020 - Linear Algebra Introduction",
+            "2577": "Unit-021 - Intro and Linear Algebra Assignment",
+            "2571": "Unit-030 - Numpy Introduction",
+            "2578": "Unit-031 - Numpy Introduction Assignment",
+            "2575": "Unit-035 - Numpy Tables",
+            "2705": "Unit-036 - Numpy Tables Assignment",
+            "2572": "Unit-040 - Pandas Introduction",
+            "2573": "Unit-050 - Matplotlib Introduction",
+            "2579": "Unit-051 - Pandas and Matplotlib Assignment",
+            "2574": "Unit-055 Preprocessing Tools Review",
+            "2580": "Unit-060 - Happiness Project Assignment",
+            "2566": "Unit-999 Post-course Exit Exam"
+        }
+    },
+    "205": {
+        "name": "ML-310 Statistics Primer",
+        "units": {
+            "2556": "Materials Links",
+            "2604": "Unit-000 Pre-Course Placement Exam",
+            "2598": "Unit-010 - Displaying and Interpreting Data - Part 1",
+            "2599": "Unit-020 - Displaying and Interpreting Data - Part 2",
+            "2593": "Unit-021 - Interpreting Data 1 and 2 Assignment",
+            "2600": "Unit-030 - Z-scores",
+            "2594": "Unit-031 - Z-scores Assignment",
+            "2601": "Unit-040 - Confidence Intervals",
+            "2602": "Unit-050 - Significance Tests",
+            "2595": "Unit-051 - Significance Tests Part A - Population Proportion Assignment",
+            "2596": "Unit-052 - Significance Tests Part B - Population Mean Assignment",
+            "2603": "Unit-060 - Chi-squared Tests",
+            "2597": "Unit-061 - Chi-square Tests Assignment",
+            "2605": "Unit-999 Post-course Exit Exam"
+        }
+    },
+    "143": {
+        "name": "ML-320 Regression in Data Analysis",
+        "units": {
+            "2778": "ML-320 Materials Links",
+            "2794": "Unit-000 Pre-course Placement Exam",
+            "2779": "Unit-010 - Simple Linear Regression (SLR)",
+            "2780": "Unit-020 - Multiple Linear Regression",
+            "2782": "Unit-021 - Project - Simple & Multiple Linear Regression Assignment",
+            "2781": "Unit-030 - Polynomial Regression",
+            "2783": "Unit-031 - Project - Polynomial Regression Assignment",
+            "2785": "Unit-040 - Lasso Regression",
+            "2784": "Unit-041 - Project Lasso Regression Assignment",
+            "2796": "Unit-050 - Gradient Descent",
+            "2793": "Unit-051 - Project Gradient Descent Assignment",
+            "2792": "Unit-060 Logistic Regression",
+            "2786": "Unit-061 - Project - Logistic Regression Assignment",
+            "2795": "Unit-999 Post-course Exit Exam"
+        }
+    },
+    "206": {
+        "name": "ML-330 Databases with SQLite",
+        "units": {
+            "2853": "ML-330 Materials Links",
+            "2817": "Unit-000 Pre-course Placement Exam",
+            "2819": "Unit-010 - SQLite Introduction",
+            "2820": "Unit-020 - SQLite Setup",
+            "2830": "Unit-021 - Introduction to Databases Assignment",
+            "2821": "Unit-030 - SQLite Simple Queries",
+            "2822": "Unit-040 - SQLite Multi-table Queries",
+            "2841": "Unit-041 - Database Queries Assignment",
+            "2823": "Unit-050 - SQLite Subqueries",
+            "2824": "Unit-060 - SQLite Query Summaries",
+            "2855": "Unit-061 - Database Queries Project Assignment",
+            "2825": "Unit-070 - SQLite Database Updates",
+            "2826": "Unit-080 - SQLite Data Integrity",
+            "2827": "Unit-090 - SQLite Database Design",
+            "2856": "Unit-091 - SQLite Database Design Assignment",
+            "2818": "Unit-999 Post-course Exit Exam"
+        }
+    },
+    "144": {
+        "name": "ML-340 Exploratory Data Analysis Projects",
+        "units": {}
+    },
+    "146": {
+        "name": "ML-400 Machine Learning Introduction",
+        "units": {
+            "2213": "Introduction to Machine Learning",
+            "2214": "Development Environment and Tools",
+            "2215": "Project 1 - Machine learning using Pre-trained Models",
+            "2216": "Project 2 - Machine Learning Example Implementation"
+        }
+    },
+    "150": {
+        "name": "ML-440 Classification Introduction and KNN",
+        "units": {
+            "2230": "Introduction to Classification ",
+            "2231": "KNN with 1 Independent Variable",
+            "2232": "KNN with Multiple Independent Variables - Preprocessing",
+            "2233": "KNN - Multiple Independent Variables - Algorithm",
+            "2234": "Project 1 - KNN  ********"
+        }
+    },
+    "151": {
+        "name": "ML-450 Decision Trees",
+        "units": {
+            "2235": "Evaluation with the Confusion Matrix",
+            "2236": "Recall, precision, and F1-score",
+            "2237": "Project 1 - Example Confusion Matrix Application",
+            "2238": "Decision Trees Introduction  ********"
+        }
+    },
+    "152": {
+        "name": "ML-460 Support Vector Machines",
+        "units": {
+            "2239": "Introduction to SVM",
+            "2240": "Distortion, Variance, Entropy",
+            "2241": "Project 1 - Application of SVM",
+            "2242": "Project 2 - SVM application ********"
+        }
+    },
+    "153": {
+        "name": "ML-470 K-Means Clustering",
+        "units": {
+            "2243": "Introduction to Clustering and K-means",
+            "2244": "Centroids and Linear Clustering",
+            "2245": "K-means Clustering in 2-dimensions",
+            "2246": "Evaluation Techniques and the Elbow Curve",
+            "2247": "Project 1 - K-means ********"
+        }
+    },
+    "154": {
+        "name": "ML-480 Hierarchical Clustering",
+        "units": {
+            "2248": "Introduction and Applications",
+            "2249": "Hierarchical Agglomerative Clustering with Linear Data",
+            "2250": "Hierarchical Agglomerative Clustering with  2-dimensional Data",
+            "2251": "Project 1 - Hierarchical Clustering Application"
+        }
+    },
+    "155": {
+        "name": "ML-490 Recommender Systems",
+        "units": {
+            "2252": "Introduction to Recommender Systems",
+            "2253": "Content-based and Collaborative Filtering",
+            "2254": "Collaborative Filtering - Item Based Example",
+            "2255": "Collaborative Filtering - Item Based Implementation",
+            "2256": "Project 1 - Collaborative Filtering Application ********"
+        }
+    },
+    "156": {
+        "name": "ML-500 Introduction to Neural Networks",
+        "units": {
+            "2257": "Intro to Neural Networks",
+            "2258": "Biological Neuron and Electrical Model",
+            "2259": "Project 1 - Neural Network Application ********"
+        }
+    },
+    "157": {
+        "name": "ML-510 The Perceptron",
+        "units": {
+            "2260": "Introduction to the Perceptron",
+            "2261": "Single Perceptron Classification",
+            "2262": "Single layer Perceptron Implementation",
+            "2263": "Project 1 - Logic function Implementations using Single Layer Perceptron xx",
+            "2264": "Project 2 - Classification using Single Layer Perceptron"
+        }
+    },
+    "158": {
+        "name": "ML-520 Multi-Layer Perceptron",
+        "units": {
+            "2265": "Introduction to Multi-layer Perceptron",
+            "2266": "XOR function using Multi-layer Perceptron",
+            "2267": "Activation Functions",
+            "2268": "Project 1 - Application of Multi-layer Perceptron ********"
+        }
+    },
+    "159": {
+        "name": "ML-530 Linear Algebra and Gradient Descent",
+        "units": {
+            "2269": "Linear Algebra for Machine Learning ********",
+            "2270": "Derivatives for Machine Learning",
+            "2271": "Partial Differentiation for Machine Learning",
+            "2272": "Cost Functions",
+            "2273": "Gradient Descent"
+        }
+    },
+    "160": {
+        "name": "ML-540 MLP Classification",
+        "units": {
+            "2274": "Introduction to Multi-layer Perceptron (MLP) Classification",
+            "2275": "MLP Training",
+            "2276": "MLP Back-propagation",
+            "2277": "MLP Layer and Nodes Considerations ********",
+            "2278": "Project 1 - MLP Linear Classification",
+            "2279": "Project 2 - MLP Non-linear Classification",
+            "2280": "Project 3:  MLP Advanced Classification"
+        }
+    },
+    "161": {
+        "name": "ML-550 Convolutional Neural Networks *******",
+        "units": {}
+    },
+    "162": {
+        "name": "ML-560 Deep Learning Tools ********",
+        "units": {}
+    },
+    "163": {
+        "name": "ML-600 Advanced Topics Introduction ********",
+        "units": {}
+    },
+    "164": {
+        "name": "ML-610 YOLO ********",
+        "units": {}
+    },
+    "165": {
+        "name": "ML-620 Computer Vision ********",
+        "units": {}
+    },
+    "166": {
+        "name": "ML-630 GPU Acceleration ********",
+        "units": {}
+    },
+    "167": {
+        "name": "ML-640  Applications of Machine Learning to Robotics ********",
+        "units": {}
+    },
+    "170": {
+        "name": "ML-650 Faster RCNN ********",
+        "units": {}
+    },
+    "169": {
+        "name": "ML-660 Single-Shot multibox Detector (SSD) ********",
+        "units": {
+            "2288": "Reference link here"
+        }
+    },
+    "203": {
+        "name": "MLF-100 Course Placement Exams",
+        "units": {
+            "2456": "ML-100 Placement Exam",
+            "2457": "ML-110 Placement Exam",
+            "2458": "ML-120 Placement Exam"
+        }
+    },
+    "199": {
+        "name": "MLF-100 IAPS Fri 3:30-5:00 PM",
+        "units": {
+            "2394": "MLF-100 Sept IAPS",
+            "2528": "MLF-100 Oct IAPS",
+            "2535": "MLF-100 Nov IAPS",
+            "2582": "MLF-100 Dec IAPS",
+            "2588": "MLF-100 Jan '21 IAPS",
+            "2656": "MLF-100 Feb '21 IAPS",
+            "2699": "MLF-100 Mar '21 IAPS",
+            "2787": "MLF-100 April '21 IAPS",
+            "2805": "MLF-100 May '21 IAPS",
+            "2808": "MLF-100 June '21 IAPS"
+        }
+    },
+    "200": {
+        "name": "MLF-100 IAPS Fri 5:00-6:30 PM",
+        "units": {
+            "2396": "MLF-100 Sept IAPS",
+            "2529": "MLF-100 Oct IAPS",
+            "2536": "MLF-100 Nov IAPS",
+            "2583": "MLF-100 Dec IAPS",
+            "2589": "MLF-100 Jan '21 IAPS",
+            "2657": "MLF-100 Feb '21 IAPS",
+            "2700": "MLF-100 Mar '21 IAPS",
+            "2788": "MLF-100 April '21 IAPS",
+            "2806": "MLF-100 May '21 IAPS",
+            "2809": "MLF-100 June '21 IAPS"
+        }
+    },
+    "202": {
+        "name": "MLF-100 IAPS Sun 2:00-3:30 PM",
+        "units": {
+            "2455": "MLF-100 Sept IAPS",
+            "2530": "MLF-100 Oct IAPS",
+            "2537": "MLF-100 Nov IAPS",
+            "2585": "MLF-100 Dec IAPS",
+            "2590": "MLF-100 Jan '21 IAPS",
+            "2658": "MLF-100 Feb '21 IAPS",
+            "2701": "MLF-100 Mar '21 IAPS",
+            "2789": "MLF-100 April '21 IAPS",
+            "2802": "MLF-100 May '21 IAPS",
+            "2810": "MLF-100 June '21 IAPS"
+        }
+    },
+    "196": {
+        "name": "MLF-100 IAPS Sun 3:30-5:00 PM",
+        "units": {
+            "2377": "MLF-100 Sept IAPS",
+            "2531": "MLF-100 Oct IAPS",
+            "2538": "MLF-100 Nov IAPS",
+            "2586": "MLF-100 Dec IAPS",
+            "2591": "MLF-100 Jan '21 IAPS",
+            "2659": "MLF-100 Feb '21 IAPS",
+            "2702": "MLF-100 Mar '21 IAPS",
+            "2790": "MLF-100 April '21 IAPS",
+            "2803": "MLF-100 May '21 IAPS",
+            "2811": "MLF-100 June '21 IAPS"
+        }
+    },
+    "195": {
+        "name": "MLF-100 IAPS Wed 5:00-6:30 PM",
+        "units": {
+            "2376": "MLF-100 Sept '20 IAPS",
+            "2532": "MLF-100 Oct '20 IAPS",
+            "2534": "MLF-100 Nov '20 IAPS",
+            "2581": "MLF-100 Dec '20 IAPS",
+            "2592": "MLF-100 Jan '21 IAPS",
+            "2655": "MLF-100 Feb '21 IAPS",
+            "2698": "MLF-100 Mar '21 IAPS",
+            "2791": "MLF-100 April '21 IAPS",
+            "2804": "MLF-100 May '21 IAPS",
+            "2807": "MLF-100 June '21 IAPS"
+        }
+    },
+    "218": {
+        "name": "Sample Machine Learning Course by NexStream",
+        "units": {
+            "2768": "Samples from ML-100 - Intro to Machine Learning Classifiers",
+            "2770": "Unit-050 - JavaScript Based Image Classifier",
+            "2771": "Unit-060 - Project - JavaScript Based Image Classifier",
+            "2769": "Samples from ML-120 - Neural Networks Overview",
+            "2772": "Unit-010 -  Intro to Neural Networks in Machine Learning"
+        }
+    },
+    "213": {
+        "name": "Test Course - China",
+        "units": {
+            "2720": "Unit-045 - JavaScript Introduction",
+            "2865": "Unit-LRStest1",
+            "2869": "Config_test"
+        }
+    },
+    "114": {
+        "name": "This is a SCORM Example Course",
+        "units": {
+            "2044": "How to Perform CPR"
+        }
+    },
+    "168": {
+        "name": "Video Conference",
+        "units": {
+            "2371": "Test Discussion",
+            "2419": "Unit-030 with Transcript",
+            "2281": "Weekly Meetings",
+            "2397": "Test Survey",
+            "2465": "Test IAPS",
+            "2587": "Unit-010 Python Bitwise Operations and Random Numbers",
+            "2704": "Test Exam"
+        }
+    }
+}
