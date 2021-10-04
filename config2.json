@@ -1,0 +1,109 @@
+{
+    "124": {
+        "name": "Advanced Features of TalentLMS",
+        "units": {
+            "1993": "Enhance your course",
+            "1994": "How to add conferences",
+            "1995": "How to create Instructor-led Training",
+            "1996": "How to clone courses & units",
+            "1997": "Managing your users",
+            "1998": "How to use Groups",
+            "1999": "How to use Branches",
+            "2000": "How to customize User Types",
+            "2001": "Advanced features",
+            "2002": "How to work with Automations",
+            "2003": "Selling courses",
+            "2004": "How to sell your courses"
+        }
+    },
+    "46": {
+        "name": "Content and TalentLMS",
+        "units": {
+            "2005": "Welcome to Content and TalentLMS",
+            "2006": "HOW EACH CONTENT TYPE WORKS",
+            "2007": "Content Types to Use in Your Courses",
+            "2008": "Uploading a Cool Image",
+            "2009": "Embedding Online Content",
+            "2010": "Embedding Videos",
+            "2011": "PowerPoint Presentation as a Video",
+            "2012": "Uploading Audio",
+            "2013": "Using Documents and Presentations",
+            "2014": "Embedding with iFrame",
+            "2015": "ASSESSMENTS AS PART OF A COURSE",
+            "2016": "Using Assessments",
+            "2017": "Working with Surveys"
+        }
+    },
+    "113": {
+        "name": "Employee Training 101",
+        "units": {
+            "2028": "Welcome to Employee Training 101",
+            "2029": "GETTING STARTED",
+            "2030": "What is Employee Training?",
+            "2031": "Benefits of Employee Training",
+            "2032": "How to Set Up an Employee Training Plan",
+            "2033": "BASIC TYPES OF EMPLOYEE TRAINING",
+            "2034": "Onboarding",
+            "2035": "Compliance",
+            "2036": "Technical Skills Development",
+            "2037": "EVALUATION",
+            "2038": "How Can an LMS Help with Assessments?",
+            "2039": "How to Phrase Employee Evaluation Comments",
+            "2040": "The Power of Employee Training",
+            "2041": "One Company, One Platform, Multiple Training Types",
+            "2042": "Training a Workforce of 1,200",
+            "2043": "Employee Training in Complex Organizations"
+        }
+    },
+    "122": {
+        "name": "Getting Started With eLearning",
+        "units": {
+            "2018": "Welcome to Getting Started With eLearning",
+            "2019": "eLearning FUNDAMENTALS",
+            "2020": "What is an LMS?",
+            "2021": "Why Do You Need eLearning?",
+            "2022": "Why You Should Invest in an LMS (Infographic)",
+            "2023": "eLearning Tactics",
+            "2024": "Blended Learning: When Online Meets Offline",
+            "2025": "Rapid eLearning: Save Time and Money",
+            "2026": "Gamifying the Learning Process",
+            "2027": "How Can a Subject Matter Expert Help?"
+        }
+    },
+    "125": {
+        "name": "Intro to Electronics",
+        "units": {
+            "2047": "Unit-10 What is Electricity",
+            "2048": "Unit-10 Exam"
+        }
+    },
+    "123": {
+        "name": "Introduction to TalentLMS",
+        "units": {
+            "2046": "User roles in TalentLMS",
+            "1982": "Creating courses",
+            "1983": "How to add content to a course",
+            "1984": "How to add tests",
+            "1985": "How to add assignments",
+            "1986": "How to add files",
+            "1987": "Managing your account",
+            "1988": "How to view reports",
+            "1989": "How to customize your account",
+            "1990": "How to import & export data",
+            "1991": "How to set up Notifications",
+            "1992": "How to set up Gamification"
+        }
+    },
+    "126": {
+        "name": "Test",
+        "units": {
+            "2049": "Config_test"
+        }
+    },
+    "114": {
+        "name": "This is a SCORM Example Course",
+        "units": {
+            "2044": "How to Perform CPR"
+        }
+    }
+}
