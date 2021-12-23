@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<head>
+  <title>xAPI File Editor</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+    
+    <div class="drop-zone" id="drop-zone">
+      <p class="drop-zone__text" id="drop-zone__text">Drop file here or Click to Upload</p>
+      <input type="file" id="file" class="drop-zone__input">
+    </div>  
+  
+    <div class="edit-zone">
+
+      <div class="edit-zone__form">
+        <p class="label">LRS</p>
+        <input type="text" class="textbox" id="lrs" disabled placeholder="https://learninglocker.nexstreamtek.com">
+
+        <p class="label">Authentication Key</p>
+        <input type="text" class="textbox" id ="auth" disabled placeholder="Basic ABCDEFGHIJKLMNOPQRSTUVWXYZ">
+
+        <p class="label">Load Script</p>
+        <div id="checkbox">
+          <input type="checkbox" id="check" disabled value="True">
+          <label for="checkbox">Include</label>
+        </div>
+
+        <p class="label">Jump Script</p>
+        <input type="text" class="textbox" id="jump" disabled placeholder="1,3,9-13">
+<!-- 
+        <p class="label">Time Script</p>
+        <input type="text" class="textbox" id="time" disabled placeholder="1,3,9-13"> -->
+
+        <p class="label">onIncorrect Script</p>
+        <input type="text" class="textbox" id="incorrect" disabled placeholder="1,3,9-13">
+
+        <button type="button" id="submit" disabled>submit</button>
+     
+      </div>
+
+      <div class="edit-zone__display"> 
+        <p class="hooks">Hooks: </p>
+        <p class="hooks__display" id="hooks__display">0</p>
+        <p class="slides">Slides: </p>
+        <p class="slides__display" id="slides__display">null</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class='modal-wrapper'>
+    <div class='modal'>
+      <h2 class='modal-title'>Downloading file . . .</h2>
+    </div>
+  </div>  
+
+  <script src="scripts/main.js"></script>
+  <script src="scripts/jszip.min.js"></script>
+  <script src="scripts/FileSaver.js"></script>
+
+</body>
